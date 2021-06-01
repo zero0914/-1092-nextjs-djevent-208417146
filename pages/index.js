@@ -1,4 +1,4 @@
-import Layout from '../components/Layout';
+import Layout from '../components/Layout2/Layout';
 export default function HomePage() {
     return (
         <Layout description = 'About DJ Event'>
